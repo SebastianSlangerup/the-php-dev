@@ -1,0 +1,6 @@
+#+TITLE: The PHP Dev
+An easy-to-use service to quickly scaffold PHP projects and environments.
+#+AUTHOR: Sebastian Slangerup
+
+* What is the purpose of this website?
+"The PHP Dev" sets out to achieve a way to easily get new projects up and running. With just a few clicks, you can have a docker container up and running, specifically tailored to your project.
